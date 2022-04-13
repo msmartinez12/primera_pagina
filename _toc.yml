@@ -7,3 +7,6 @@ chapters:
 - file: markdown
 - file: notebooks
 - file: listado_materias
+- file: listado_ciclos
+- file: listado_aulas
+
